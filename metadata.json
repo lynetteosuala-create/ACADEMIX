@@ -1,0 +1,8 @@
+{
+  "name": "ACADEMIX — The Ultimate Learning Arena",
+  "description": "An advanced 3D educational gaming universe combining campus exploration, interactive subject departments, multiplayer arena battles, AI professors, link previews, and examination simulators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
